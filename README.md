@@ -1,4 +1,4 @@
-# clair
+# Clair Sample
 
 > A sample clair setup, used for scanning docker images for known vulnerabilities.
 
